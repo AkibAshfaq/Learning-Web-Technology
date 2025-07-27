@@ -1,68 +1,9 @@
 <!doctype html>
 <html>
-    <style>
-        input[type="text"],
-        input[type="date"],
-        input[type="number"],
-        input[type="email"],
-        input[type="password"], select
-        {
-            width: 90%;
-            padding: 10px;
-            margin: 1px;
-            border: 1px solid black;
-            border-radius: 4px;
-        }
-
-        
-        input[type="file"]
-        {
-            width: 50%;
-            padding: 10px;
-            margin: 1px;
-            border-radius: 4px;
-        }
-
-        div {
-            width: 25%;
-            padding: 20px;
-            background-color: #f2f2f2ff;
-            border-radius: 10px;
-        }
-
-        .flow{
-            width: 150px;
-            height: 80px;
-            overflow: auto;
-            background-color: #f2f2f2ff;
-            padding: 10px;
-            border-radius: 10px;
-            margin-top: 20px;
-            outline: 1px solid red;
-        }
-
-        #clr{
-            background-color: white;
-        }
-
-        body{
-            background-color: #b8dde9ff;
-            font-family: Arial, sans-serif;
-            color: #333;
-        }
-
-        input[type="submit"],
-        input[type="reset"]
-        {
-            width: 100px;
-            padding: 10px;
-            margin: 5px;
-            border: 1px ;
-            background-color: blue;
-            color: white;
-        }
-
-    </style>
+    
+        <title>Bank Management System - Customer Registration Form</title>
+        <link rel="stylesheet" type="text/css" href="../CSS/Form_Style.css">
+    
 
     <body>
 
@@ -167,10 +108,12 @@
 
         </div>
 
-        <div class = "flow">This is a demo text to show how the overflow 
-                            works in a small container ..................
-                            ..............................................
-                            ........ end </div>
+            <div class = "flow">This is a demo text to show how the overflow 
+                                works in a small container .................. 
+                                .............................................. 
+                                ........ end 
+                            
+                            </div> 
         
     </body>
 
